@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @KaungHtetCS
-- 👀 I’m interested in C# programming
-- 🌱 I’m currently learning C# programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Programmer_K
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
 - My YouTube Channel -https://www.youtube.com/channel/UCw86Mczv10e-lRkDl1xoIXg-
 
 <!---
